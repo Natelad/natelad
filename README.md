@@ -1,6 +1,11 @@
 # 💫 About Me:
-My name is Panashe Gunda a full stack developer, i have strength in python, java, react, node, html, css and tailwind, c++ and c# and almost any other langueages<br>i develop websites and software Applications,  <br>i develop AI tools and AI chatbots<br>I am the owner of Natelad Agency
+Full-Stack Developer | AI Specialist | Founder of Natelad Agency
 
+I am a highly skilled full-stack developer with expertise in a wide range of programming languages and technologies, including Python, Java, React, Node.js, HTML, CSS, Tailwind CSS, C++, and C#. I specialize in building dynamic websites and robust software applications tailored to modern business needs.
+
+My passion lies in leveraging cutting-edge technologies to solve real-world problems. I also develop advanced AI tools and intelligent chatbots that enhance user engagement and automate workflows.
+
+As the founder of Natelad Agency, I lead a team dedicated to delivering high-impact digital solutions that empower brands to grow and succeed online.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/www.nateladagency.com) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@NateladAgency) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gundanathan6@gmail.com) 
